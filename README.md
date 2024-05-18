@@ -3,3 +3,4 @@
 
 
 Bem vindo ao nosso projeto de Conclusão de Curso - Ciências da Computação
+Projeto em fase de desenvolvimento
